@@ -214,7 +214,7 @@ export const userMutation = extendType({
 
 ## Create TypeScript types
 
-And have another option to create TypeScript types to use for your work
+Have another option to create TypeScript types to use for your work
 
 ### Command options for `create-types`
 
